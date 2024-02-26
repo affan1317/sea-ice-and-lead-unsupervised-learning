@@ -46,7 +46,7 @@ K-means clustering is a type of unsupervised learning algorithm used for partiti
 K-means clustering is particularly well-suited for applications where:
 - The structure of the data is not known beforehand: K-means doesn’t require any prior knowledge about the data distribution or structure, making it ideal for exploratory data analysis.
 - Simplicity and scalability: The algorithm is straightforward to implement and can scale to large datasets relatively easily.
-- 
+
 ### Key Components of K-means
 - Choosing K: The number of clusters (k) is a parameter that needs to be specified before applying the algorithm.
 - Centroids Initialization: The initial placement of the centroids can affect the final results.
