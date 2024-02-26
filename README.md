@@ -31,13 +31,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- INTRODUCTION -->
 # Introduction to unsupervised learning
 
 ## K-means Clustering
@@ -86,6 +85,7 @@ This process is repeated until convergence, meaning the parameters do not signif
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
 # Getting started
 This project is created using Google Colab, which is a cloud-based platform for writing, running, and sharing Python code collaboratively. It provides free access to powerful GPU and TPU resources, eliminating the need for expensive hardware. Colab seamlessly integrates with Google Drive for easy storage and sharing of notebooks. Its collaborative features enable multiple users to work simultaneously on the same document, fostering teamwork. With support for popular libraries and frameworks, Colab is ideal for data science, machine learning, and development projects. To access the notebook, you can just click the Google Colab link in the ipynb file included in this repo.
 
@@ -93,5 +93,22 @@ This project is created using Google Colab, which is a cloud-based platform for 
 
 Below are the packages needed for this project
    ```sh
-   npm install
+!pip install rasterio
+!pip install netCDF4
+!pip install basemap
+!pip install cartopy
+
    ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+# Contact
+Affan Mazlan - zcfbabi@ucl.ac.uk / affankb1317@gmail.com
+
+Project Link: [https://github.com/affan1317/sea-ice-and-lead-unsupervised-learning](https://github.com/affan1317/sea-ice-and-lead-unsupervised-learning)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+# Acknowledgments
+- This project is part of an assignment for module GEOL0069 by UCL Earth Sciences Department
