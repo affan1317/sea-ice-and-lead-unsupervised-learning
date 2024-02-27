@@ -99,6 +99,11 @@ Below are the packages needed for this project
 !pip install cartopy
 
    ```
+Below are the name of the Sentinel 2 and Sentinel-3 data folders that are used in this project. Note that these folders are extracted by colocating Sentinel-3 and Sentinel-2 data from Copernicus Data Space following the steps in [Data Fetching](https://cpomucl.github.io/GEOL0069-AI4EO/Chapter%201%3AFetching_Data.html) and [Colocating Sentinel-3 OLCI and Sentinal-2 Optical Data](https://cpomucl.github.io/GEOL0069-AI4EO/Chapter1%3AData_Colocating_S2_S3.html) pages. The folders are not included in this pafe because the size is too large.
+
+Sentinel-2 optical data : S2A_MSIL1C_20190301T235611_N0207_R116_T01WCU_20190302T014622.SAFE-20240226T224735Z-001
+Sentinel-3 OLCI data    : S3B_SR_2_LAN_SI_20190301T231304_20190301T233006_20230405T162425_1021_022_301______LN3_R_NT_005.SEN3-20240226T224839Z-001
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -111,4 +116,4 @@ Project Link: [https://github.com/affan1317/sea-ice-and-lead-unsupervised-learni
 
 <!-- ACKNOWLEDGMENTS -->
 # Acknowledgments
-- This project is part of an assignment for module GEOL0069 by UCL Earth Sciences Department
+- This project is part of an assignment for module GEOL0069 taught in UCL Earth Sciences Department
